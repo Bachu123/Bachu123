@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mubashir Buhari</h1>
 
 <h3 align="center">Software Developer Enthusiast | 🎮 Gamer Extraordinaire</h3>
-<image align="right"  alt="coding"  width="400" src ="https://cdn.dribbble.com/users/1646023/screenshots/6625629/gamer_800x600.gif">
+<img align="right"  alt="coding"  width="400" src ="https://cdn.dribbble.com/users/1646023/screenshots/6625629/gamer_800x600.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bachu123&label=Profile%20views&color=0e75b6&style=flat" alt="bachu123" /> </p>
 
