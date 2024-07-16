@@ -1,6 +1,11 @@
 
-<h1 align="center" class="animated-title">Hi 👋, I'm Mubashir Buhari</h1>
-<h3 align="center">Software Developer Enthusiast | 🎮 Gamer Extraordinaire</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi+there!+I'm+Mubashir+Buhari;&center=true&size=30">
+</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Software%20Developer%20Enthusiast&fontSize=30&fontAlignY=35" />
+</p>
 <p align="center">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZ4cnl1MHlpeTYxamt6em0zeWJhODI5cXNyc2t4czRudzZxbHo5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mmgxbjsgIyl3wi1VxK/giphy.webp" alt="Gamer GIF" width="150" height="150"/>
 </p>
