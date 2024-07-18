@@ -71,7 +71,8 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bachu123&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bachu123&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bachu123&theme=radical" alt="GitHub Streak" /></p>
+
 
 </body>
 </html>
